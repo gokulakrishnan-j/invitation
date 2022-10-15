@@ -1,0 +1,143 @@
+@media(min-width : 1px){
+body{
+   background-color: rgb(25, 18, 54);
+   background-image: url(https://www.freeiconspng.com/thumbs/stars-png/stars-28.png);
+  
+  
+}
+
+#first_div{
+    text-align: center;
+    margin-top: 16px;
+  
+    border-top: 6px groove white;
+    border-left: 6px groove white;
+    border-radius: 8px;
+  
+}
+.first{
+    padding: 8px;
+    font-size: 34px;
+    text-align:center;
+    color: whitesmoke;
+  font-weight: bolder;
+   
+}
+.godImg{
+width: 80px;
+object-fit: cover;
+}
+
+#first{
+    height:40px;
+    margin-top: 24px;
+    
+    border-radius: 8px;
+    border-top: 5px solid white;
+    border-left: 5px solid white;
+    padding-top: 24px;
+}
+.first_letter{
+    letter-spacing: 4px;
+  padding: 9px;
+}
+
+
+#contant{
+    text-align: center;
+    margin-top: 80px;
+   padding-top:140px ;
+   
+    color: aliceblue;
+}
+.edit_contant{
+    letter-spacing: 4px;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+.parentName{
+    font-size: 18px;
+    padding: 12px;
+    font-family:Alkalami;
+}
+.edit_heart{
+    font-size: 25px;
+}
+
+#date_time{
+    margin: 24px;
+    padding: 35px;
+color: white;
+text-align: center;
+}
+.date{
+    color: rgb(224, 172, 209);
+    padding: 8px;
+    font-size: 24px;
+    font-style: italic;
+}
+.time{
+    color: rgb(235, 139, 101);
+    padding: 8px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#name_wedding{
+    margin: 24px;
+    padding-top: 55px;
+color: white;
+text-align: center;
+}
+.names{
+    padding: 12px;
+    letter-spacing: 3px;
+}
+.jsName{
+    color:white; 
+    font-family: 'Cabin Sketch', cursive;
+}
+#names{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(42, 163, 42);
+}
+#image{
+    text-align: center;
+    padding: 24px;
+}
+.image_size{
+    border-radius: 20px;
+    object-fit: cover;
+    transition: 0.4s;
+    width: 260px;
+    transition: 0.6s;
+    
+}
+.image_size:hover{
+    transform: scale(1.4) rotate(8deg);
+    
+    object-fit: cover;
+    object-position: top;
+    height: 300px;
+}
+#adress{
+    text-align: left;
+    color: aliceblue;
+}
+.adress_h{
+    padding: 12px;
+}
+.edit_address{
+    color:rgb(241, 195, 124);
+}
+.direction{
+    text-align: center;
+    color: antiquewhite;
+    padding: 45px;
+}
+.edit_direction{
+    font-size: 20px;
+    color: aliceblue;
+}
+}
