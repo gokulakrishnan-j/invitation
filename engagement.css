@@ -13,9 +13,6 @@ body{
     text-align: center;
     margin-top: 16px;
   
-    border-top: 6px groove white;
-    border-left: 6px groove white;
-    border-radius: 8px;
   
 }
 .first{
@@ -35,9 +32,6 @@ object-fit: cover;
     height:40px;
     margin-top: 24px;
     
-    border-radius: 8px;
-    border-top: 5px solid white;
-    border-left: 5px solid white;
     padding-top: 24px;
 }
 .first_letter{
