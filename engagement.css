@@ -24,7 +24,7 @@ body{
    
 }
 .godImg{
-width: 80px;
+width: 110px;
 object-fit: cover;
 }
 
@@ -35,6 +35,8 @@ object-fit: cover;
     padding-top: 24px;
 }
 .first_letter{
+    font-family: 'Kalam', cursive;
+  color:rgb(255, 255, 255);
     letter-spacing: 4px;
   padding: 9px;
 }
@@ -91,8 +93,11 @@ text-align: center;
     letter-spacing: 3px;
 }
 .jsName{
-    color:white; 
-    font-family: 'Cabin Sketch', cursive;
+     color:rgb(233, 233, 233); 
+    font-size: 28px;
+    font-family: 'Italianno', cursive;
+    font-weight: bolder;
+    letter-spacing: 7px;
 }
 #names{
     font-size: 20px;
