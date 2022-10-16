@@ -1,10 +1,10 @@
 @media(min-width : 1px){
 body{
    background-color: rgb(25, 18, 54);
-    background-image: url(https://images.vexels.com/media/users/3/164291/isolated/preview/218ae8fdc204eda854db2a987c7e4029-holi-festival-mandala.png);
+    background-image: url(https://1.bp.blogspot.com/-QFk0ybVXjgw/XTNKsSN7cfI/AAAAAAAAAE8/1NdpQIWN6tEYbr41ePajZ5wNYT6RklGOACLcBGAs/s1600/black-dark-watercolor-floral-background.jpg);
    background-size:cover;
-   background-position:0px;
-   background-blend-mode:soft-light
+   background-position:-300px;
+   background-blend-mode:lighten
   
   
 }
